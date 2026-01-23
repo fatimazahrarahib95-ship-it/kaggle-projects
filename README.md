@@ -1,14 +1,21 @@
-# Data Science Certifications 📜
+# Data Analysis Projects 📊
 
-This repository contains my data science and Python-related certifications.
+This repository contains my data analysis projects completed using Python.
 
-## 📌 Certifications Included
-- Python Project Certification
-- Python for Data Science (IBM / Coursera)
+## 🔹 Projects
+1. Superstore Sales Analysis  
+   - Sales performance analysis
+   - Data cleaning and visualization
 
-These certifications demonstrate my foundational skills in:
-- Python programming
-- Data analysis basics
-- Data manipulation and exploration
+2. Electric Vehicles (EV) Data Analysis  
+   - EV sales and stock trends
+   - Yearly and regional analysis
 
-📂 All certificates are available in PDF format.
+## 🛠 Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+
+📌 Projects are based on Kaggle datasets.
+

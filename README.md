@@ -16,8 +16,8 @@ This repository contains my data analysis projects completed using Python.
      -Weather performance analyse
      -Graphics for average temperature
      -Calculing the max & min
-     - Yearly & monthly & city & contry analysis
-     - Extreme climate 
+     -Yearly & monthly & city & contry analysis
+     -Extreme climate 
 
 ## 🛠 Tools Used
 - Python
